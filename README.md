@@ -1,11 +1,5 @@
-# RailsCasts Example Application
+An 'Ajaxified' checklist created based on Ryan Bates' jQuery & Ajax RailsCast #136
 
-Run these commands to try it out.
-
-```
-bundle
-rake db:setup
-rails s
-```
+User can create new tasks, update them, and remove them.
 
 Requires Ruby 1.9.2 or later to run.
